@@ -15,6 +15,7 @@
 > Asynchronous TCP port scanner built with C++ and Boost.Asio for high-concurrency network reconnaissance.
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
+> *Developed by [@deniskhud](https://github.com/deniskhud)*
 
 ## What It Does
 
