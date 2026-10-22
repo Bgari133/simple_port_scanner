@@ -6,6 +6,8 @@ RUN apt-get update \
         libboost-program-options-dev \
         cmake \
         git \
+        ca-certificates \
+    && update-ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
